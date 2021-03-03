@@ -12,5 +12,5 @@
 ## 특이사항
 
 ## 개발 언어, 툴, 데이터베이스
-- JAVA, Eclipse, Oracle
+- JAVA, JSP & Servlet, Eclipse, Oracle
 
