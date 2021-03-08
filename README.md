@@ -22,6 +22,10 @@
 ![memberInsert jsp](https://user-images.githubusercontent.com/58061847/110300220-f8c3ba00-8039-11eb-97e2-07a6237a88c2.PNG)
 ![memberInsert do](https://user-images.githubusercontent.com/58061847/110300218-f8c3ba00-8039-11eb-9781-5a809bbbf38d.PNG)
 
-## 회원정보 검색
+## 회원정보 검색, 확인
 ![memberSearch jsp](https://user-images.githubusercontent.com/58061847/110300224-f9f4e700-8039-11eb-8928-e3f8ed54f894.PNG)
 ![memberSearch do](https://user-images.githubusercontent.com/58061847/110300221-f95c5080-8039-11eb-91eb-e22fd03d5723.PNG)
+
+## 회원정보 수정, 확인
+![회원정보 수정](https://user-images.githubusercontent.com/58061847/110300236-fbbeaa80-8039-11eb-9746-fa9dbaf90eab.PNG)
+![회원정보 수정완료](https://user-images.githubusercontent.com/58061847/110300239-fc574100-8039-11eb-8146-48c335eadc99.PNG)
