@@ -18,6 +18,10 @@
 ## 인덱스화면
 ![index](https://user-images.githubusercontent.com/58061847/110300209-f6f9f680-8039-11eb-837c-9ec94b87568b.PNG)
 
-## 데이터 삽입, 확인
+## 회원정보 생성, 확인
 ![memberInsert jsp](https://user-images.githubusercontent.com/58061847/110300220-f8c3ba00-8039-11eb-97e2-07a6237a88c2.PNG)
 ![memberInsert do](https://user-images.githubusercontent.com/58061847/110300218-f8c3ba00-8039-11eb-9781-5a809bbbf38d.PNG)
+
+## 회원정보 검색
+![memberSearch jsp](https://user-images.githubusercontent.com/58061847/110300224-f9f4e700-8039-11eb-8928-e3f8ed54f894.PNG)
+![memberSearch do](https://user-images.githubusercontent.com/58061847/110300221-f95c5080-8039-11eb-91eb-e22fd03d5723.PNG)
