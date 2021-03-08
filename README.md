@@ -29,3 +29,6 @@
 ## 회원정보 수정, 확인
 ![회원정보 수정](https://user-images.githubusercontent.com/58061847/110300236-fbbeaa80-8039-11eb-9746-fa9dbaf90eab.PNG)
 ![회원정보 수정완료](https://user-images.githubusercontent.com/58061847/110300239-fc574100-8039-11eb-8146-48c335eadc99.PNG)
+
+## 회원정보 삭제, 확인
+![memberDelete jsp](https://user-images.githubusercontent.com/58061847/110300216-f82b2380-8039-11eb-9a99-f99ac200a7d9.PNG)
