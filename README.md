@@ -32,3 +32,5 @@
 
 ## 회원정보 삭제, 확인
 ![memberDelete jsp](https://user-images.githubusercontent.com/58061847/110300216-f82b2380-8039-11eb-9a99-f99ac200a7d9.PNG)
+![삭제 정보 검색](https://user-images.githubusercontent.com/58061847/110300232-fb261400-8039-11eb-9e96-350a330082a7.PNG)
+![회원정보 삭제 완료](https://user-images.githubusercontent.com/58061847/110300233-fb261400-8039-11eb-8fe0-135ed74e74d9.PNG)
