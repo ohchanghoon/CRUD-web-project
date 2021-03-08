@@ -8,8 +8,8 @@
 - CRUD기능이 있는 게시판 구현 ( 디자인 X )
 
 ## 환경설정
-- Tool : Eclipse, 
-- Database : Oracle 11g, 
+- Tool : Eclipse
+- Database : Oracle 11g 
 - web server :Tomcat8.5
 
 ## 패키지 구조
