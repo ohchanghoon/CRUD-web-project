@@ -31,6 +31,9 @@
 ![회원정보 수정완료](https://user-images.githubusercontent.com/58061847/110300239-fc574100-8039-11eb-8146-48c335eadc99.PNG)
 
 ## 회원정보 삭제, 확인
-![memberDelete jsp](https://user-images.githubusercontent.com/58061847/110300216-f82b2380-8039-11eb-9a99-f99ac200a7d9.PNG)
 ![삭제 정보 검색](https://user-images.githubusercontent.com/58061847/110300232-fb261400-8039-11eb-9e96-350a330082a7.PNG)
 ![회원정보 삭제 완료](https://user-images.githubusercontent.com/58061847/110300233-fb261400-8039-11eb-8fe0-135ed74e74d9.PNG)
+
+ ## 모든 회원 정보 보기
+ ![모든회원 정보보기](https://user-images.githubusercontent.com/58061847/110300229-fa8d7d80-8039-11eb-83d8-7bb341ea8b06.PNG)
+ ![검색 정보 결과](https://user-images.githubusercontent.com/58061847/110300226-f9f4e700-8039-11eb-9d45-472566a8840d.PNG)
