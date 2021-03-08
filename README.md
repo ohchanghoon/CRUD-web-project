@@ -12,5 +12,5 @@
 - Database : Oracle 11g, 
 - web server :Tomcat8.5
 
-- 패키지 구조
-
+## 패키지 구조
+![패키지 구조](https://user-images.githubusercontent.com/58061847/110300441-34f71a80-803a-11eb-8c80-004b5f00c2f4.PNG)
